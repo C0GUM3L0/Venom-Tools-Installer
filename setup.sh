@@ -9,7 +9,12 @@ case $answer in
 		figlet -c "Team Venom"
 		apt-get update
 		apt-get upgrade
-		apt-get install figlet
+fdsoisdfoçsdfsps a ´ sda
+
+s
+df
+dfsdfokdf]
+
 		apt-get install git
 		bash venom.sh
 		;;
